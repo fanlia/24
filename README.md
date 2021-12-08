@@ -1,7 +1,7 @@
 
 # 24
 
-a game to get get 24 from 4 numbers
+a game to get 24 from 4 numbers
 
 ## Usage
 
