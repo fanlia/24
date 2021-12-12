@@ -1,3 +1,5 @@
 Main
-Main.hi
-Main.o
+All
+No
+*.hi
+*.o
